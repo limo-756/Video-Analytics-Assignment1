@@ -59,7 +59,9 @@ nbformat==5.10.4
 nest-asyncio==1.6.0
 notebook_shim==0.2.4
 numpy==2.4.1
+numpy-typing-compat==20251206.2.4
 opencv-python==4.13.0.90
+optype==0.15.0
 packaging==25.0
 pandas==3.0.0
 pandocfilters==1.5.1
@@ -88,6 +90,7 @@ rfc3987-syntax==1.1.0
 rpds-py==0.30.0
 scikit-learn==1.8.0
 scipy==1.17.0
+scipy-stubs==1.17.0.2
 seaborn==0.13.2
 Send2Trash==2.1.0
 setuptools==80.10.1
